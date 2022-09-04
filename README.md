@@ -1,4 +1,4 @@
 # TorrentBase
-Torrent/Magnet search
+Opensource Torrent/Magnet search engine
 
 https://torrentbase.net/
