@@ -1,4 +1,4 @@
 # TorrentBase
 Torrent/Magnet search
 
-[https://](https://torrentbase.net/)
+https://torrentbase.net/
